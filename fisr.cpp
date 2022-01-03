@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// # Easter Egg: int32 2201010001
+
 float produceFastInverseSquareRoot( float n ) {
    
    const float threehalves = 1.5F;
